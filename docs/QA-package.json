@@ -1,0 +1,197 @@
+{
+  "method": "JavaScript syntax, structural checks, and interaction logic in Node VM with simulated DOM. No browser rendering or native share sheet tested: local preview blocked by browser policy.",
+  "checks": [
+    {
+      "test": "Executable scripts parse",
+      "passed": true
+    },
+    {
+      "test": "Map follows photographic home before wiki",
+      "passed": true
+    },
+    {
+      "test": "All nine v14.1 embedded visuals retained",
+      "passed": true
+    },
+    {
+      "test": "Six original credited wall photographs retained",
+      "passed": true
+    },
+    {
+      "test": "Application initializes with simulated DOM",
+      "passed": true
+    },
+    {
+      "test": "Search returns matching Jacksonville story",
+      "passed": true
+    },
+    {
+      "test": "No-result search and reset",
+      "passed": true
+    },
+    {
+      "test": "Region, story type and decade filters",
+      "passed": true
+    },
+    {
+      "test": "Unsafe Instagram URLs rejected; tracking removed",
+      "passed": true
+    },
+    {
+      "test": "No public link or file path fabricated for local drafts",
+      "passed": true
+    },
+    {
+      "test": "Older precise coordinates coarsened on load",
+      "passed": true
+    },
+    {
+      "test": "All contribution buttons use one-screen form",
+      "passed": true
+    },
+    {
+      "test": "Save and edit preserve one draft with coarse location",
+      "passed": true
+    },
+    {
+      "test": "Default reference photos do not load remotely",
+      "passed": true
+    },
+    {
+      "test": "Standalone manifesto removed; rotation controls included",
+      "passed": true
+    },
+    {
+      "test": "Landing page starts with the requested manifesto",
+      "passed": true
+    },
+    {
+      "test": "Front-page rotation wraps without a read-story button",
+      "passed": true
+    },
+    {
+      "test": "Prepared email uses the project contact and encodes visitor text",
+      "passed": true
+    },
+    {
+      "test": "Unconnected email registration stays disabled and explains status",
+      "passed": true
+    },
+    {
+      "test": "Unconfigured paid pre-orders remain closed",
+      "passed": true
+    },
+    {
+      "test": "Payment handoff rejects untrusted checkout hosts",
+      "passed": true
+    },
+    {
+      "test": "Every archive entry has an embedded real photograph and attribution",
+      "passed": true
+    },
+    {
+      "test": "Book gallery has four selectors and honest unavailable interiors",
+      "passed": true
+    },
+    {
+      "test": "Photographs require an Instagram credit before saving",
+      "passed": true
+    },
+    {
+      "test": "Street point links contain only approximate coordinates",
+      "passed": true
+    },
+    {
+      "test": "Wiki action pair, album credit row and tagline removed",
+      "passed": true
+    },
+    {
+      "test": "Four programme illustrations do not replace original personal photographs",
+      "passed": true
+    },
+    {
+      "test": "Page thumbnails open the matching preview; redundant link removed",
+      "passed": true
+    },
+    {
+      "test": "Start invitation appears immediately before the map",
+      "passed": true
+    },
+    {
+      "test": "Every timeline stop links to a full wiki article",
+      "passed": true
+    },
+    {
+      "test": "Contribution questions differ for all three story types",
+      "passed": true
+    },
+    {
+      "test": "Instagram ID alone supplies the photo credit link",
+      "passed": true
+    },
+    {
+      "test": "Get Going defaults to mustard and uses the shared illustrated shirt in every colour",
+      "passed": true
+    },
+    {
+      "test": "All original album cards have independent Instagram credit links",
+      "passed": true
+    },
+    {
+      "test": "Every contribution type shows readable terms and requires agreement",
+      "passed": true
+    },
+    {
+      "test": "Reference contribution layout, questions, settings and year fields",
+      "passed": true
+    },
+    {
+      "test": "Map action row only offers whole-atlas sharing",
+      "passed": true
+    },
+    {
+      "test": "Street camera follows region, search, story selection, reset and zoom",
+      "passed": true
+    },
+    {
+      "test": "Toolbar gives visible no-results feedback and random-story recovery",
+      "passed": true
+    },
+    {
+      "test": "Footer links to Atlas policies and project contact",
+      "passed": true
+    },
+    {
+      "test": "All story kinds include required policy consent",
+      "passed": true
+    },
+    {
+      "test": "Currency and PayPal recipient retained; payment remains closed",
+      "passed": true
+    },
+    {
+      "test": "Story, shop and gatherings numbered in navigation order",
+      "passed": true
+    },
+    {
+      "test": "Book reservation explains deferred payment and cancellation without collecting details",
+      "passed": true
+    },
+    {
+      "test": "T-shirt checkout only offers PayPal",
+      "passed": true
+    },
+    {
+      "test": "Online gathering is the Tiny Turn launch with no invented date",
+      "passed": true
+    },
+    {
+      "test": "Footer uses full shop name and update month",
+      "passed": true
+    },
+    {
+      "test": "Campaign hashtag persists on stories and appears once in share text",
+      "passed": true
+    }
+  ]
+}
